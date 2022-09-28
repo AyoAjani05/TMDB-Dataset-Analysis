@@ -21,11 +21,12 @@ In This Project, I will be working with the TMDB movies dataset which was gather
 Download Anaconda at https://www.anaconda.com/download/ and install the libraries in the requirement.txt file using PIP
 
 Install Jupyter Notebook by running the following command:
-
-`conda install jupyter notebook`
-
+```
+conda install jupyter notebook
+```
 or
-
-`pip install jupyter notebook`
+```
+pip install jupyter notebook
+```
 
 Then launch the Jupyter Notebook to view the .ipynb file.
