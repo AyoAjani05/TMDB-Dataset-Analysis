@@ -10,3 +10,22 @@ In This Project, I will be working with the TMDB movies dataset which was gather
 - Who are the most used directors?
 - What is the number of movies released Yearly and total profit each Year?
 - Does a shorter runtime increase revenue?
+
+# Table of Contents
+- `TMDB.ipynb:` the Jupyter Notebook version of the report
+- `TMDB.html:` the html version of the report exported from the Jupyter Notebook
+- `tmdb-movies.csv:` the raw dataset of this report
+- `Requirements.txt`: the required python libraries
+
+# Installation and Configuration
+Download Anaconda at https://www.anaconda.com/download/ and install the libraries in the requirement.txt file using PIP
+
+Install Jupyter Notebook by running the following command:
+
+`conda install jupyter notebook`
+
+or
+
+`pip install jupyter notebook`
+
+Then launch the Jupyter Notebook to view the .ipynb file.
