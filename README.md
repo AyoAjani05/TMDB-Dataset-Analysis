@@ -12,10 +12,10 @@ In This Project, I will be working with the TMDB movies dataset which was gather
 - Does a shorter runtime increase revenue?
 
 # Table of Contents
-- `TMDB.ipynb:` the Jupyter Notebook version of the report
-- `TMDB.html:` the html version of the report exported from the Jupyter Notebook
-- `tmdb-movies.csv:` the raw dataset of this report
-- `Requirements.txt`: the required python libraries
+- `Jupyter Notebook:` the Jupyter Notebook version of the analysis.
+- `HTML Notebooks:` the HTML Notebook version of the Explanatory data analysis.
+- `Dataset:` the folder containing the dataset used.
+- `Requirements.txt`: the required python libraries.
 
 # Installation and Configuration
 Download Anaconda at https://www.anaconda.com/download/ and install the libraries in the requirement.txt file using PIP
